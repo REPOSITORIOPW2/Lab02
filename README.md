@@ -62,14 +62,13 @@
 ## I.		SOLUCIÓN DE EJERCICIOS/PROBLEMAS
 
 - Ejercicio 01: Escriba una función que reciba el número de día de la fecha actual new Date() - https://www.w3schools.com/jsref/jsref_obj_date.asp  y devuelva el texto del día de la semana correspondientes. Por ejemplo si recibe 0, devolvería “Domingo”.
-
-    **Código solución:
     
+    - Solución (Código):
     ![image](https://user-images.githubusercontent.com/64146055/167042489-a28d4208-1b48-4b27-8b42-9714647d762f.png)
-
-    **Ejecución:
     
-    ![image](https://user-images.githubusercontent.com/64146055/167042675-3ad3a8fe-159b-4b34-967f-d8daff03fedd.png)
+    - Ejecución:
+    ![image](https://user-images.githubusercontent.com/64146055/167042792-00dacc20-b7ab-4381-ae58-904ff67511cd.png)
+
 
 - Ejercicio 02: Escriba una página web que reciba un texto y al presionar un botón muestre el mismo texto invertido en otra sección (div). Por ejemplo si se escribe “Hola”, se mostraría como “aloH”.
 - Ejercicio 03: Escribir una página que muestre cuántos días faltan para el día de Arequipa!
