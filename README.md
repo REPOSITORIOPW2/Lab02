@@ -30,12 +30,12 @@
 </theader>
 <tbody>
 <tr><td>ASIGNATURA:</td><td colspan="5">Programación Web 2</td></tr>
-<tr><td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">Git - GitHub</td></tr>
+<tr><td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">JavaScript</td></tr>
 <tr>
-<td>NÚMERO DE PRÁCTICA:</td><td>01</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td>
+<td>NÚMERO DE PRÁCTICA:</td><td>02</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td>
 </tr>
 <tr>
-<td>FECHA DE PRESENTACION:</td><td>28-Abr-2022</td><td>HORA DE PRESENTACION:</td><td colspan="3">3:50</td>
+<td>FECHA DE PRESENTACION:</td><td>07-May-2022</td><td>HORA DE PRESENTACION:</td><td colspan="3">1:00</td>
 </tr>
 <tr><td colspan="3">Integrantes:
 <ul>
@@ -61,49 +61,28 @@
 
 ## I.		SOLUCIÓN DE EJERCICIOS/PROBLEMAS
 
-Primer ejercicio de crear un repositorio individual donde se añadira un "HolaMundo.java" y como minimo 3 veces hacer commit.
-
-Repositorio de Kevin Pedro Yare Chulunquia: https://github.com/kevinPedroYare/primero
-
-Screenshot de comits:
-   <img src="https://github.com/kevinPedroYare/Hospital/blob/main/Sin%20t%C3%ADtulo.png"/>
-
-Repositorio de Joel Erick Gutierrez Puma: https://github.com/joel123-gothub/pweb02
-
-Screenshot de commits:
-   <img src="https://user-images.githubusercontent.com/64146055/165864496-95a41818-692c-4b28-b3ca-b7ff78ef13fe.png"/>
-   
-Repositorio de Rutbel Carlos Ttito Campos: https://github.com/RutbelCarlosTC/Pweb2-lab1.git
-
-Screenshot de commits:
-   <img src="https://user-images.githubusercontent.com/90486158/165878412-ca547237-dd6b-4ba2-8b35-e07d5348a323.png"/>
-   
-Repositorio de Joaquín Gonzalo Paredes Mescco: https://github.com/joaquinGPM/pw2-lab01
-    
- Screenshot de commits:
-    <img src="https://user-images.githubusercontent.com/91225726/166086561-c68c4a19-9f83-4a01-a0db-8a831b0b9c32.png"/>
-    
-  
-Segundo ejercicio de crear una calculadora de forma grupal por medio del repositorio de github con los metodos basicos de suma, resta, multplicacion, division y modulo.
-
-
-Se añadio una plantilla base la cual se modificara cuando editaremos los metodos, se creo como un menu con las operaciones a pedir y por medio de un switch case pediremos la operacion a hacer, cada uno hizo una parte pero se hizo un nuevo repositorio donde aparece que lo subio uno solo la solucion.
-Repositorio: https://github.com/kevinPedroYare/calculadora/blob/main/main.java (En este repositorio apararece commits)
+- Ejercicio 01: Escriba una función que reciba el número de día de la fecha actual new Date() - https://www.w3schools.com/jsref/jsref_obj_date.asp  y devuelva el texto del día de la semana correspondientes. Por ejemplo si recibe 0, devolvería “Domingo”.
+- Ejercicio 02: Escriba una página web que reciba un texto y al presionar un botón muestre el mismo texto invertido en otra sección (div). Por ejemplo si se escribe “Hola”, se mostraría como “aloH”.
+- Ejercicio 03: Escribir una página que muestre cuántos días faltan para el día de Arequipa!
+- Ejercicio 04: Escribir un página que reciba el URL de la sesión de google meet de hoy y devuelva el código de la sesión sin guiones separadores
+- Ejercicio 05: Escribir una página que permita calcular las suma de todos los valores de una tabla de valores dinámica. La idea es crear una página web con un formulario que te permita decir cuantos valores tendrá la tabla, luego, al enviar el formulario la tabla se debe crear dinámicamente, junto con otro botón de envió para calcular la suma.
+- Ejercicio 06: Utilice la herramienta flipgrid - https://info.flipgrid.com/ envie un video en el tema "Presentacion y ejemplo deJavaScript" ponga aquí los enlaces de sus envíos.
 
 
 ## II.	SOLUCIÓN DE CUESTIONARIO
 
-- ¿Por qué Git es una herramienta importante en el curso de Programación Web 2?
-
-  Git nos permite la gestión distribuida del trabajo y laboratorios del curso de Programación Web 2. De esta manera, podemos trabajar a pesar de no estar físicamente cerca. Cada uno de nostros cuenta con su propia copia del repositorio en su rama. Y cada vez que se realice algún cambio, la modificación se aplica al proyecto en desarrollo.
+- Pruebe este código de arrayGenerator() en la página https://jslint.com/
+- Revisar esta discusión en stackoverflow - https://stackoverflow.com/questions/4852017/how-to-initialize-an-arrays-length-in-javascript
+    - ¿Cómo se pueden resolver los warnings?
+    - ¿Se puede modificar la solución usando map? ¿Cómo?
 
 ## III.	CONCLUCIONES
 
-Git y GitHub son dos herramientas complementarias que ofrecen grandes funcionalidades y ventajas a la hora de llevar a cabo proyectos de software. Permiten llevar controlar totalmente el estado de los diferentes archivos de código fuente a lo largo del tiempo, facilitando la revisión de código, la depuración de errores y la realización de todo tipo de pruebas.
-
-# RETROALIMENTACION GENERAL
+* 
 
 
 ## REFERENCIAS Y BIBLIOGRÁFIA RECOMENDADAS
-- https://guides.github.com/
-- https://git-scm.com/book/es/v2
+- Javascript tutorial. https://www.w3schools.com/javascript/default.asp, 2021. Accesed: 02-09-2021.
+- Loiane Groner. Learning JavaScript Data Structures and Algorithms: Write complex and powerful
+- Validador HTML - https://validator.w3.org/
+- Validador CSS - https://jigsaw.w3.org/css-validator/
