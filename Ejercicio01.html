@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>EJERCICIO 01</h1>
+<h2>QUE DIA ES HOY?</h2>
+
+<p>La fecha de hoy es:</p>
+
+<p id="demo"></p>
+
+<script>
+const weekday =["Domingo","Lunes","Martes","Miercoles","Jueves","Viernes","Sabado"];
+
+const d = new Date();
+const dia = d.getDay();
+
+function WhatDay(dia) {
+	let day = weekday[d.getDay()];
+    return day;
+}
+
+let text =  d + "<br><br>" + "El dia de hoy es: " +WhatDay(dia);
+
+document.getElementById("demo").innerHTML = text;
+</script>
+
+</body>
+</html>
