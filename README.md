@@ -97,7 +97,8 @@
 
 ## III.	CONCLUSIONES
 
-* 
+- JavaScript es una ayuda indispensable para realizar páginas en las que queramos una alta interacción con el usuario.
+- Por otro lado, todas las operaciones, funciones, métodos, etc, tienen la ventaja que se ejecuta en el lado del cliente, de esta manera no tiene que estar llamando     continuamente al servidor.
 
 
 ## REFERENCIAS Y BIBLIOGRÁFIA RECOMENDADAS
