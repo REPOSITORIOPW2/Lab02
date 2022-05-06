@@ -65,14 +65,23 @@
     
     - Solución (Código):
     
-    ![image](https://user-images.githubusercontent.com/64146055/167042489-a28d4208-1b48-4b27-8b42-9714647d762f.png)
+        ![image](https://user-images.githubusercontent.com/64146055/167042489-a28d4208-1b48-4b27-8b42-9714647d762f.png)
     
     - Ejecución:
     
-    ![image](https://user-images.githubusercontent.com/64146055/167042792-00dacc20-b7ab-4381-ae58-904ff67511cd.png)
+        ![image](https://user-images.githubusercontent.com/64146055/167042792-00dacc20-b7ab-4381-ae58-904ff67511cd.png)
 
 
 - Ejercicio 02: Escriba una página web que reciba un texto y al presionar un botón muestre el mismo texto invertido en otra sección (div). Por ejemplo si se escribe “Hola”, se mostraría como “aloH”.
+
+    - Solución (Código):
+        
+        ![image](https://user-images.githubusercontent.com/64146055/167058452-5be0c3e9-f4ea-4ffe-96cc-f0e306b83181.png)
+    
+    - Ejecución: 
+    
+        ![image](https://user-images.githubusercontent.com/64146055/167058565-937ae430-4c5c-463b-98a9-f55ca5f49c49.png)
+
 - Ejercicio 03: Escribir una página que muestre cuántos días faltan para el día de Arequipa!
 - Ejercicio 04: Escribir un página que reciba el URL de la sesión de google meet de hoy y devuelva el código de la sesión sin guiones separadores
 - Ejercicio 05: Escribir una página que permita calcular las suma de todos los valores de una tabla de valores dinámica. La idea es crear una página web con un formulario que te permita decir cuantos valores tendrá la tabla, luego, al enviar el formulario la tabla se debe crear dinámicamente, junto con otro botón de envió para calcular la suma.
