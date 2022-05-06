@@ -93,7 +93,14 @@
 - Pruebe este código de arrayGenerator() en la página https://jslint.com/
 - Revisar esta discusión en stackoverflow - https://stackoverflow.com/questions/4852017/how-to-initialize-an-arrays-length-in-javascript
     - ¿Cómo se pueden resolver los warnings?
+       Se puede solucionar reemplazando el uso del for por un forEach o metodos de matriz, que es lo que recomienda jslint 
+       
     - ¿Se puede modificar la solución usando map? ¿Cómo?
+        Si, inicializando el arreglo (a.fill) con ceros y luego usar map para retornar un nuevo arreglo que contenga los numeros aleatorios sumados con           cada elemento de a
+        Solucion:
+        ![image](https://user-images.githubusercontent.com/90486158/167178028-f876af69-83fc-4943-99b6-fb22094f0986.png)
+        ![image](https://user-images.githubusercontent.com/90486158/167178476-3cb5dcb6-a48d-449b-a1fc-4be591b5a172.png)
+
 
 ## III.	CONCLUSIONES
 
