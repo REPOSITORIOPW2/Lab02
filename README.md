@@ -95,7 +95,7 @@
     - ¿Cómo se pueden resolver los warnings?
     - ¿Se puede modificar la solución usando map? ¿Cómo?
 
-## III.	CONCLUCIONES
+## III.	CONCLUSIONES
 
 * 
 
