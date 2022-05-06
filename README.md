@@ -64,9 +64,11 @@
 - Ejercicio 01: Escriba una función que reciba el número de día de la fecha actual new Date() - https://www.w3schools.com/jsref/jsref_obj_date.asp  y devuelva el texto del día de la semana correspondientes. Por ejemplo si recibe 0, devolvería “Domingo”.
     
     - Solución (Código):
+    
     ![image](https://user-images.githubusercontent.com/64146055/167042489-a28d4208-1b48-4b27-8b42-9714647d762f.png)
     
     - Ejecución:
+    
     ![image](https://user-images.githubusercontent.com/64146055/167042792-00dacc20-b7ab-4381-ae58-904ff67511cd.png)
 
 
