@@ -83,7 +83,25 @@
         ![image](https://user-images.githubusercontent.com/64146055/167058565-937ae430-4c5c-463b-98a9-f55ca5f49c49.png)
 
 - Ejercicio 03: Escribir una página que muestre cuántos días faltan para el día de Arequipa!
+    
+    - Solución (Código):
+        
+        ![image](https://github.com/kevinPedroYare/Hospital/blob/main/Captura%20de%20pantalla%202022-05-09%20172256.png)
+       
+    - Ejecución: 
+    
+        ![image](https://github.com/kevinPedroYare/Hospital/blob/main/solucion3.png)
+        
 - Ejercicio 04: Escribir un página que reciba el URL de la sesión de google meet de hoy y devuelva el código de la sesión sin guiones separadores
+
+     - Solución (Código):
+        
+        ![image](https://github.com/kevinPedroYare/Hospital/blob/main/ejercicio4.png)
+       
+    - Ejecución: 
+    
+        ![image](https://github.com/kevinPedroYare/Hospital/blob/main/ejer4sol.png)
+        
 - Ejercicio 05: Escribir una página que permita calcular las suma de todos los valores de una tabla de valores dinámica. La idea es crear una página web con un formulario que te permita decir cuantos valores tendrá la tabla, luego, al enviar el formulario la tabla se debe crear dinámicamente, junto con otro botón de envió para calcular la suma.
 - Ejercicio 06: Utilice la herramienta flipgrid - https://info.flipgrid.com/ envie un video en el tema "Presentacion y ejemplo deJavaScript" ponga aquí los enlaces de sus envíos.
 
