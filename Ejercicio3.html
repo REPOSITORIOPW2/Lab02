@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>Dias faltantes para el dia de Arequipa:</h1><br>
+    <input type="button" onclick="DiasFaltantes()" value = "Mostrar dias"></input>
+    <p id="dias"></p>
+    <script>
+        function DiasFaltantes() {
+            var fecha = new Date(2022, 07, 15);
+            var hoy = new Date();
+            var restante = fecha - hoy;
+
+            restante = document.getElementById("dias").innerHTML = ("Faltan : " + parseInt((restante / 86400000) + 1) + " días");
+        }
+    </script>
+</body>
+
+</html>
