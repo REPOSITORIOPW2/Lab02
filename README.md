@@ -107,7 +107,7 @@
 
 
 ## REFERENCIAS Y BIBLIOGRÁFIA RECOMENDADAS
-- Javascript tutorial. https://www.w3schools.com/javascript/default.asp, 2021. Accesed: 02-09-2021.
+- Javascript tutorial. https://www.w3schools.com/javascript/default.asp, 2021. Accesed: 07-05-2022.
 - Loiane Groner. Learning JavaScript Data Structures and Algorithms: Write complex and powerful
 - Validador HTML - https://validator.w3.org/
 - Validador CSS - https://jigsaw.w3.org/css-validator/
