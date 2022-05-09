@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Recibir link</title>
+</head>
+
+<body>
+    <label for="url">Url:</label><br>
+    <input type="text" id="url"><br>
+    <input type="button" onclick="sinGuiones()" value="Activar Función"><br>
+    <label>Url sin guiones:</label>
+    <p id="newUrl"></p>
+    <script>
+        function sinGuiones() {
+            var url = document.getElementById("url").value;
+            for (var i = 0; i < url.length; i++) {
+                if (url[i] == '-') {
+                    url = url.replace(url[i], '');
+                }
+            }
+            var newUrl = /^(\w+):\/\/([^\/]+)\/([^]+)\?[^]+$/.exec(url);
+            var [, , , path] = newUrl;
+            newUrl = document.getElementById("newUrl").innerHTML = path;
+        }
+    </script>
+</body>
+
+</html>
