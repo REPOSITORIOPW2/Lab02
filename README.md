@@ -111,6 +111,10 @@
 ## II.	SOLUCIÓN DE CUESTIONARIO
 
 - Pruebe este código de arrayGenerator() en la página https://jslint.com/
+
+    - ![image](https://user-images.githubusercontent.com/64146055/167534953-fe6c6d49-eb1b-4387-b3ef-f0b609c5879a.png)
+    - ![image](https://user-images.githubusercontent.com/64146055/167534993-4d63f8be-2253-4b1f-b071-ec5cd04e5be0.png)
+
 - Revisar esta discusión en stackoverflow - https://stackoverflow.com/questions/4852017/how-to-initialize-an-arrays-length-in-javascript
     - ¿Cómo se pueden resolver los warnings?
      Se puede solucionar reeemplazando el uso del for por un forEach o un metodo de matriz que es lo que recomienda jslint
