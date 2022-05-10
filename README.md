@@ -125,7 +125,7 @@
         ![image](https://user-images.githubusercontent.com/91225726/167541964-e11dae28-9863-46e0-9b7a-101a8b417e80.png)
 
 - Ejercicio 06: Utilice la herramienta flipgrid - https://info.flipgrid.com/ envie un video en el tema "Presentacion y ejemplo deJavaScript" ponga aquí los enlaces de sus envíos.
-   
+   https://flipgrid.com/s/CyTo8FpkAsrk (JOAQUIN GONZALO PAREDES MESCCO)
     
     
        
