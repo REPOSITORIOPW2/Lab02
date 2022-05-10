@@ -86,21 +86,23 @@
     
     - Solución (Código):
         
-        ![image](https://github.com/kevinPedroYare/Hospital/blob/main/Captura%20de%20pantalla%202022-05-09%20172256.png)
+        ![ejer3](https://user-images.githubusercontent.com/83080715/167533535-2f6581ae-28fc-4a56-b262-d1af22cd3b27.png)
        
     - Ejecución: 
     
-        ![image](https://github.com/kevinPedroYare/Hospital/blob/main/solucion3.png)
+        ![solucion3](https://user-images.githubusercontent.com/83080715/167533517-6a364bde-e63d-4311-a78c-de34d4bb9fe4.png)
         
 - Ejercicio 04: Escribir un página que reciba el URL de la sesión de google meet de hoy y devuelva el código de la sesión sin guiones separadores
 
      - Solución (Código):
         
-        ![image](https://github.com/kevinPedroYare/Hospital/blob/main/ejercicio4.png)
+        ![ejercicio4](https://user-images.githubusercontent.com/83080715/167533553-75f06346-4352-4ea7-8dd3-277631d149b5.png)
+
        
     - Ejecución: 
     
-        ![image](https://github.com/kevinPedroYare/Hospital/blob/main/ejer4sol.png)
+        ![ejer4sol](https://user-images.githubusercontent.com/83080715/167533568-0d4fe72f-903b-444e-b365-b11746858707.png)
+
         
 - Ejercicio 05: Escribir una página que permita calcular las suma de todos los valores de una tabla de valores dinámica. La idea es crear una página web con un formulario que te permita decir cuantos valores tendrá la tabla, luego, al enviar el formulario la tabla se debe crear dinámicamente, junto con otro botón de envió para calcular la suma.
 - Ejercicio 06: Utilice la herramienta flipgrid - https://info.flipgrid.com/ envie un video en el tema "Presentacion y ejemplo deJavaScript" ponga aquí los enlaces de sus envíos.
