@@ -106,6 +106,18 @@
         
 - Ejercicio 05: Escribir una página que permita calcular las suma de todos los valores de una tabla de valores dinámica. La idea es crear una página web con un formulario que te permita decir cuantos valores tendrá la tabla, luego, al enviar el formulario la tabla se debe crear dinámicamente, junto con otro botón de envió para calcular la suma.
 - Ejercicio 06: Utilice la herramienta flipgrid - https://info.flipgrid.com/ envie un video en el tema "Presentacion y ejemplo deJavaScript" ponga aquí los enlaces de sus envíos.
+    - Solución (Código):
+        ![image](https://user-images.githubusercontent.com/91225726/167542067-613f7289-a2a4-4621-b014-dc69705ce7a9.png)
+        ![image](https://user-images.githubusercontent.com/91225726/167542113-0a083e94-f5f1-455f-a1d6-90d5a090a6e2.png)
+        ![image](https://user-images.githubusercontent.com/91225726/167542190-81741ef7-92d7-4497-aeba-0d440f440dce.png)
+
+
+
+        
+    - Ejecución: 
+        ![image](https://user-images.githubusercontent.com/91225726/167541737-64d74d1a-fff8-44a1-8518-de9c7d628a02.png)
+        ![image](https://user-images.githubusercontent.com/91225726/167541964-e11dae28-9863-46e0-9b7a-101a8b417e80.png)
+
 
 
 ## II.	SOLUCIÓN DE CUESTIONARIO
