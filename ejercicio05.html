@@ -1,24 +1,23 @@
 <!DOCTYPE html>
-<html>
-<body>
-
-/*Ejercicio 05: Escribir una página que permita calcular las suma de todos los valores de una tabla de valores dinámica. 
-La idea es crear una página web con un formulario que te permita decir cuantos valores tendrá la tabla, luego, al enviar el formulario la 
-tabla se debe crear dinámicamente, junto con otro botón de envió para calcular la suma.*/
-
-
-<h1>EJERCICIO 05</h1>
-<h2></h2>
-
-<p></p>
-
-<p id="demo"></p>
-
-<script>
-
-
-document.getElementById("demo").innerHTML = text;
-</script>
-
-</body>
-</html>
+<html lang="e">
+    <head>
+        <meta charset="UTF-8">
+        <title>Ejercicio 05</title>
+    </head>
+    <body>
+        
+            <input type="number"  id="filascantidad" min="1" placeholder="cantidad filas" required>
+            <br/>
+            <input type="number" id="columnascantidad" min="1" placeholder="cantidad columnas" required>
+            <br/>
+            <button onclick="generarTabla();">Generar tabla</button>
+            <hr/>
+            
+            <div id="crearTabla"></div>
+            <button onclick="calcular();">Calcular suma</button>
+            
+    
+        <script type="text/javascript" src="tabla.js"></script>
+       
+    </body>
+</html> 
