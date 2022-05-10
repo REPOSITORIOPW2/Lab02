@@ -158,3 +158,4 @@
 - Loiane Groner. Learning JavaScript Data Structures and Algorithms: Write complex and powerful
 - Validador HTML - https://validator.w3.org/
 - Validador CSS - https://jigsaw.w3.org/css-validator/
+- https://github.com/UskoKruM/GeneradorTablasJS/blob/master/generadorTablaJS.php
